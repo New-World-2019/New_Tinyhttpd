@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/usr/local/bin/perl -Tw
+=======
+#!/usr/bin/perl -Tw
+>>>>>>> 1d0ddd61a7c75c809c58cca3fda0cd3972235bd4
 
 use strict;
 use CGI;
